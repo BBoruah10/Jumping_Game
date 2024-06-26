@@ -1,0 +1,23 @@
+#grid{
+    width:400px;
+    height:650px;
+    background-image:url("background.png");
+    position:relative;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.doodler{
+    width:100px;
+    height:70px;
+    background-image: url("doodler-jumpN.png");
+    position:absolute;
+}
+
+.platform{
+    width:100px;
+    height:67px;
+    background-image: url("platformN.png");
+    position:absolute;
+}
